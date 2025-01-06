@@ -1,6 +1,3 @@
-Here is the updated `README.md` file with instructions on how to install `pdfium`:
-
-```markdown
 # PDF Cropping Tool
 
 This project is a Rust-based tool for cropping PDF documents based on the bounding box of the text content.
@@ -78,4 +75,3 @@ This will execute the tests defined in the project to ensure everything is worki
 ## License
 
 This project is licensed under the MIT License.
-```
